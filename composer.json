@@ -1,0 +1,21 @@
+{
+    "name": "miguel-teixeira/laravel-routecache",
+    "description": "Middleware that caches route responses.",
+    "keywords": ["laravel", "middleware", "route", "response"],
+    "authors": [
+        {
+            "name": "Miguel Teixeira",
+            "email": "marauder.fx@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "~5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "RouteCache\\": "src/"
+        }
+    },
+    "license": "MIT"
+
+}

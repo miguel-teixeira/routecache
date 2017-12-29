@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Middleware;
+namespace RouteCache;
 
 use Closure;
 use Illuminate\Support\Facades\Cache;

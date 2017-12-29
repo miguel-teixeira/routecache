@@ -1,5 +1,5 @@
 {
-    "name": "miguel-teixeira/laravel-routecache",
+    "name": "miguel-teixeira/routecache",
     "description": "Middleware that caches route responses.",
     "keywords": ["laravel", "middleware", "route", "response"],
     "authors": [
